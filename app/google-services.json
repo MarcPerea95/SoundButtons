@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "45978394142",
+    "firebase_url": "https://soundbuttons-63861.firebaseio.com",
+    "project_id": "soundbuttons-63861",
+    "storage_bucket": "soundbuttons-63861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45978394142:android:0e93c22329fe704a",
+        "android_client_info": {
+          "package_name": "com.perea.marc.soundbuttons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45978394142-f6edr1epk0u6jt39e0af68r9a2h67h0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAummGsrIsJotqShz3p0olbIVCxLIVTL84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

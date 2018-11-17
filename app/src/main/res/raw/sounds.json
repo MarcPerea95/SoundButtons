@@ -1,0 +1,29 @@
+{
+ "sounds": [
+   {
+     "id": 1,
+     "title": "Dragon Ball",
+     "file": "DragonBall"
+   },
+   {
+     "id": 2,
+     "title": "Boku No Hero",
+     "file": "BokuNoHero"
+   },
+   {
+     "id": 3,
+     "title": "Sonic",
+     "file": "Sonic"
+   },
+   {
+     "id": 4,
+     "title": "Beep Beep",
+     "file": "BeepBeep"
+   },
+   {
+     "id": 5,
+     "title": "Cowboy Bebop",
+     "file": "CowboyBebop"
+   }
+ ]
+}
