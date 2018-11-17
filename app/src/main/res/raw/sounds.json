@@ -3,27 +3,27 @@
    {
      "id": 1,
      "title": "Dragon Ball",
-     "file": "DragonBall"
+     "file": "dragonball"
    },
    {
      "id": 2,
      "title": "Boku No Hero",
-     "file": "BokuNoHero"
+     "file": "bokunohero"
    },
    {
      "id": 3,
      "title": "Sonic",
-     "file": "Sonic"
+     "file": "sonic"
    },
    {
      "id": 4,
      "title": "Beep Beep",
-     "file": "BeepBeep"
+     "file": "beepbeep"
    },
    {
      "id": 5,
      "title": "Cowboy Bebop",
-     "file": "CowboyBebop"
+     "file": "cowboybebop"
    }
  ]
 }
