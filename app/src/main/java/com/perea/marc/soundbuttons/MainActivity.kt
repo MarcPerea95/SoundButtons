@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity(), OnSoundClickListener {
 
     override fun onSoundClick(sound: SoundModel) {
         mediaPlayer?.release()
-        mediaPlayer = MediaPlayer.create(this, resources.getIdentifier(sound.title, "raw", packageName))
+        mediaPlayer = MediaPlayer.create(this, resources.getIdentifier(sound.file, "raw", packageName))
         mediaPlayer?.start()
 
 
